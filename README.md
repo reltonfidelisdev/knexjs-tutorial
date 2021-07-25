@@ -1,2 +1,2 @@
 # knexjs-tutorial
-A basic nodejs with knexjs crud tutorial
+A basic nodejs with knexjs insert tutorial
